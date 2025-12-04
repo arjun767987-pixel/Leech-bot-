@@ -1,3 +1,2 @@
-from bot import Bot
-
-Bot().run()
+import update
+import bot
